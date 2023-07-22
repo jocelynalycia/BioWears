@@ -29,7 +29,7 @@ Moreover, we are passionate about promoting thrifted clothing, which not only he
 
 - Purchase: Enter your payment details and confirm your purchase. Rest assured that your payment information is secure.
 
-- Thrift Your Clothes: Have clothes you no longer wear? Consider donating or selling them through our thrifted clothing marketplace. Join us in promoting sustainable fashion!
+- Thrift Your Clothes: Have clothes you no longer wear? Consider donating or selling them through our thrifted clothing marketplace. 
 
 ## Contributing
 We welcome contributions from the open-source community to improve and expand the app's functionalities. If you have any ideas, bug fixes, or features to suggest, please feel free to create a pull request.
